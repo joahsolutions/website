@@ -1,0 +1,68 @@
+site_name: Joah Solutions.
+site_url: https://joahsolutions.com
+theme: 
+  features:
+    - navigation.footer
+  logo: assets/joah-new.png
+  favicon: assets/joah-new.png 
+  font:
+    text: Roboto 
+    code: Roboto Mono
+  name: material
+  palette: 
+  # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/lightbulb-auto
+        name: system auto 
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: deep purple
+      toggle:
+        icon: octicons/light-bulb-16
+        name: light mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate 
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/lightbulb
+        name: dark mode
+markdown_extensions:
+    - pymdownx.tabbed:
+        alternate_style: true
+    - pymdownx.highlight:          
+        anchor_linenums: true
+        line_spans: __span
+        pygments_lang_class: true 
+        use_pygments: true 
+    - admonition 
+    - pymdownx.inlinehilite
+    - pymdownx.snippets 
+    - pymdownx.details
+    - pymdownx.superfences:
+       custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format 
+    - pymdownx.tabbed:
+       alternate_style: true
+       combine_header_slug: true
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg  
+extra:
+  social:
+    - icon: simple/youtube
+      link: https://youtube.com/@PrashanthSavalam
+    - icon: material/linkedin
+      link: https://linkedin.com/in/prashanth-s-71239a263 
+copyright: Copyright &copy; 2026 Joah Solutions LLC
