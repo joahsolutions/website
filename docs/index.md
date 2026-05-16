@@ -16,3 +16,5 @@
         ...       # Other markdown pages, images and other files.
 
 I like to think :material-pillar:
+
+![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
