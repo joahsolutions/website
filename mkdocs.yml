@@ -2,11 +2,14 @@ site_name: Joah Solutions.
 site_url: https://joahsolutions.com
 theme: 
   features:
-    - navigation.footer
+    - navigation.footer 
+    - navigation.instant
+    - navigation.instant.prefetch 
+    - navigation.top
   logo: assets/joah-new.png
   favicon: assets/joah-new.png 
   font:
-    text: Roboto 
+    text: Pridi
     code: Roboto Mono
   name: material
   palette: 
