@@ -1,6 +1,6 @@
 #
 
-![Image title](assets/joah-new.png){ width="300" }
+![Image title](assets/joah-new.png){ width="300"; align=top }
 
 ## Commands
 
