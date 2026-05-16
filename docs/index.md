@@ -1,5 +1,10 @@
 #
 
+![Image title](https://dummyimage.com/600x400/){ width="300" } { align=left }
+/// caption
+Image caption
+///
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
