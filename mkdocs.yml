@@ -72,12 +72,12 @@ extra:
       link: https://linkedin.com/in/prashanth-s-71239a263 
 copyright: Copyright &copy; 2026 Joah Solutions LLC. 
 nav:
-  - Home:
-    - About: index.md
-  - Case Studies:
-    - Overview: portfolio/index.md
-    - Projects:
-      - portfolio/projects/project-1.md
-      - portfolio/projects/project-2.md
+  # - Home:
+  # - About: index.md
+  # - Case Studies:
+  #   - Overview: portfolio/index.md
+  #   - Projects:
+  #     - portfolio/projects/project-1.md
+  #     - portfolio/projects/project-2.md
   - Blog:
     - blog/index.md 
