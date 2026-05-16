@@ -2,10 +2,6 @@
 
 ![Image title](assets/joah-new.png){ width="300" }
 
-/// caption
-Image caption
-///
-
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
