@@ -1,7 +1,8 @@
 site_name: Joah Solutions.
 site_url: https://joahsolutions.com
 theme: 
-  features:
+  features: 
+    - content.code.copy
     - navigation.footer 
     - navigation.instant
     - navigation.instant.prefetch 
