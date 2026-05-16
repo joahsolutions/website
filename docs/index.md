@@ -1,7 +1,7 @@
 #
 
-![Image title](assets/linkedin-img.jpeg){ width="300" }
-{align=left}
+![Image title](assets/joah-new.png){ width="300" }
+
 /// caption
 Image caption
 ///
