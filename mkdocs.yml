@@ -9,7 +9,7 @@ theme:
   logo: assets/joah-new.png
   favicon: assets/joah-new.png 
   font:
-    text: Roboto
+    text: Pridi
     code: Roboto Mono
   name: material
   palette: 
