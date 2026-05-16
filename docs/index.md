@@ -1,6 +1,6 @@
 #
 
-![Image title](https://dummyimage.com/600x400/){top-left} { width="300" }
+![Image title](assets/linkedin-img.jpeg) { width="300" ; top-left }
 /// caption
 Image caption
 ///
