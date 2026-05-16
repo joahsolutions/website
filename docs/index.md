@@ -1,6 +1,6 @@
 #
 
-![Image title](https://dummyimage.com/600x400/){ width="300" , align=left}
+![Image title](https://dummyimage.com/600x400/){top-left} { width="300" }
 /// caption
 Image caption
 ///
