@@ -9,7 +9,7 @@ theme:
   logo: assets/joah-new.png
   favicon: assets/joah-new.png 
   font:
-    text: Mukta Mahee
+    text: Roboto
     code: Roboto Mono
   name: material
   palette: 
