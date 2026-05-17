@@ -1,6 +1,8 @@
+![Image title](assets/joah-new.png){ width="300"}
+/// caption
+<span class="gluten-italic">connecting the thoughts</span>
+///
 #
-
-![Image title](assets/joah-new.png){ width="300"; align=top }
 
 ## Commands
 
