@@ -1,8 +1,8 @@
-#
+<!-- markdownlint-disable MD041 -->
 
 ![Image title](assets/joah-new.png){ width="300"}
 
-Connecting the thoughts !!
+Connecting The Thoughts !!{ .gluten-italic }
 
 ## Commands
 
