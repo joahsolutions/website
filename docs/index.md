@@ -2,6 +2,7 @@
 /// caption
 <span class="gluten-italic">connecting the thoughts</span>
 ///
+
 #
 
 ## Commands
@@ -18,4 +19,4 @@
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-I like to think :material-pillar:
+I like to think :think:
