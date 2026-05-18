@@ -1,10 +1,7 @@
 
 # 
 
-
 ![Image title](assets/joah-new.png){ width="300"}
-Connecting The Thoughts ...
-
 
 ## Commands
 
