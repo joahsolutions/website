@@ -1,11 +1,9 @@
+#
 
 ![Image title](assets/joah-new.png){ width="300"}
-
 /// caption
          *connecting the thoughts*
 ///
-
-#
 
 ## Commands
 
