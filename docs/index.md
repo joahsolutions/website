@@ -1,9 +1,11 @@
+
+# 
+
 <figure markdown>
   ![Image title](assets/joah-new.png){ width="300"}
   <figcaption><span class="gluten-italic">Connecting The Thoughts ...</span></figcaption>
 </figure>
 
-#
 
 ## Commands
 
