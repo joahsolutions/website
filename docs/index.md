@@ -1,8 +1,9 @@
 #
 
 ![Image title](assets/joah-new.png){ width="300"}
-///caption
-         connecting the thoughts
+
+///
+            connnecting the thoughts!
 ///
 
 ## Commands
@@ -19,4 +20,4 @@
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-I like to think :think:
+I like to think :octicons-heart-fill-24:{ .heart }
