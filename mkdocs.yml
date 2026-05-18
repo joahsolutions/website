@@ -47,8 +47,6 @@ markdown_extensions:
         line_spans: __span
         pygments_lang_class: true 
         use_pygments: true 
-    - toc:
-      title: On this page
     - md_in_html
     - pymdownx.blocks.caption
     - admonition 
