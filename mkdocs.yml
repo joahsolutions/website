@@ -42,13 +42,14 @@ theme:
 markdown_extensions:
     - pymdownx.tabbed:
         alternate_style: true
+        combine_header_slug: true
     - pymdownx.highlight:          
         anchor_linenums: true
         line_spans: __span
         pygments_lang_class: true 
         use_pygments: true 
     - toc:
-      title: On this page
+        title: On this page
     - md_in_html
     - pymdownx.blocks.caption
     - admonition 
@@ -56,13 +57,10 @@ markdown_extensions:
     - pymdownx.snippets 
     - pymdownx.details
     - pymdownx.superfences:
-       custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format 
-    - pymdownx.tabbed:
-       alternate_style: true
-       combine_header_slug: true
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
     - attr_list
     - pymdownx.emoji:
         emoji_index: !!python/name:material.extensions.emoji.twemoji
