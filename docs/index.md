@@ -1,7 +1,7 @@
 #
 
 ![Image title](assets/joah-new.png){ width="300"}
-/// caption
+///caption
          *connecting the thoughts*
 ///
 
