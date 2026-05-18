@@ -1,10 +1,8 @@
 #
 
 ![Image title](assets/joah-new.png){ width="300"}
-///comment
-connnecting the thoughts!
-///
 
+Connecting the thoughts !!
 
 ## Commands
 
