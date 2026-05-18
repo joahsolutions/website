@@ -1,8 +1,9 @@
-<!-- markdownlint-disable MD041 -->
+<figure markdown>
+  ![Image title](assets/joah-new.png){ width="300"}
+  <figcaption><span class="gluten-italic">Connecting The Thoughts ...</span></figcaption>
+</figure>
 
-![Image title](assets/joah-new.png){ width="300"}
-
-Connecting The Thoughts !!{ .gluten-italic }
+#
 
 ## Commands
 
@@ -18,4 +19,4 @@ Connecting The Thoughts !!{ .gluten-italic }
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-<!-- I like to think :octicons-heart-fill-24:{ .heart } -->
+I like to think :material-pillar:
