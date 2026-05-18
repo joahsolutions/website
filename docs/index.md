@@ -1,7 +1,8 @@
-/// caption
+
 ![Image title](assets/joah-new.png){ width="300"}
 
-<span class="gluten-italic">connecting the thoughts</span>
+/// caption
+         *connecting the thoughts*
 ///
 
 #
