@@ -1,46 +1,4 @@
-# Developer quickstart
 
-```python title ="Make your 1st OpenAI API request in minutes.
- Learn the basics of the OpenAI platform.
-
-    === "Python"
-
-        ```py
-
-        from openai import OpenAI
-        client = OpenAI()
-
-        response = client.responses.create(
-            model="gpt-5.5",
-            input="Write a short bedtime story about a unicorn."
-        )
-
-        print(response.output_text)
-
-        ```
-```
-
-```python title ="Make your 1st Gemini AI API request in minutes.
-Learn the basics of the Gemini AI platform.
-
-    === "Python"
-
-        ```py
-
-        from google import genai
-
-        client = genai.Client()
-
-        response = client.models.generate_content(
-            model="gemini-3.5-flash",
-            contents="Explain how AI works in a few words",
-        )
-
-        print(response.text)
-
-        ```
-
-```
 
 # Function to add two numbers
 
