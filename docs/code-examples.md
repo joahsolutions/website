@@ -1,8 +1,11 @@
 # Developer quickstart
 
+
+=== "Python"
+
 ```python title ="Make your 1st OpenAI API request in minutes.
  Learn the basics of the OpenAI platform.
- " linenums="5" hl_lines="7-15"
+
 
 from openai import OpenAI
 client = OpenAI()
@@ -14,10 +17,9 @@ response = client.responses.create(
 
 print(response.output_text)
 ```
+=== "Python"
 
 ```python title ="Make your 1st Gemini AI API request in minutes.
-" linenums="19" hl_lines="23-30"
-
 from google import genai
 
 client = genai.Client()
