@@ -1,47 +1,60 @@
-# Content Tabs
+
+
+
+
+### Content Tabs
 
 This is some examples of content tabs.
 
-## Generic Content
+### Generic Content
 
 === "Plain text"
 
-    This is some plain text
+```
+This is some plain text
+```
 
 === "Unordered list"
 
-    * First item
-    * Second item
-    * Third item
+```
+* First item
+* Second item
+* Third item
+```
 
 === "Ordered list"
 
-    1. First item
-    2. Second item
-    3. Third item
+```
+1. First item
+2. Second item
+3. Third item
+```
 
-## Code Blocks in Content Tabs
+### Code Blocks in Content Tabs
 
 === "Python"
 
-    ```py
-    def main():
-        print("Hello world!")
+```
+```py
+def main():
+    print("Hello world!")
 
 
-    if __name__ == "__main__":
-        main()
-    ```
+if __name__ == "__main__":
+    main()
 
-## Developer quickstart
+```
 
-=== "OpenAI"
+### Developer quickstart
 
-    Make your 1st OpenAI API request in minutes. Learn the basics of the OpenAI platform.
+```
+```python title ="Make your 1st OpenAI API request in minutes.
+```
 
-    ```py
-    from openai import OpenAI
+ Learn the basics of the OpenAI platform.
 
+```
+from openai import OpenAI
     client = OpenAI()
 
     response = client.responses.create(
@@ -50,14 +63,17 @@ This is some examples of content tabs.
     )
 
     print(response.output_text)
-    ```
 
-=== "Gemini"
+    
+```
 
-    Make your 1st Gemini AI API request in minutes. Learn the basics of the Gemini AI platform.
+```python title ="Make your 1st Gemini AI API request in minutes.
+```
 
-    ```py
-    from google import genai
+Learn the basics of the Gemini AI platform.
+
+```
+from google import genai
 
     client = genai.Client()
 
@@ -68,13 +84,18 @@ This is some examples of content tabs.
 
     print(response.text)
     ```
+```
+```
 
 === "JavaScript"
 
-    ```js
-    function main() {
-        console.log("Hello world!");
-    }
+```
+```js
+function main() {
+    console.log("Hello world!");
+}
 
-    main();
-    ```
+main();
+```
+```
+
